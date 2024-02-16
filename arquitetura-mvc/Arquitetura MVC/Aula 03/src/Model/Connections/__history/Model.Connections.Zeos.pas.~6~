@@ -1,0 +1,56 @@
+unit Model.Connections.Zeos;
+
+interface
+
+uses
+  ZAbstractRODataset,
+  ZAbstractDataset,
+  ZDataset,
+  ZAbstractConnection,
+  ZConnection,
+  Model.Connections.Interafaces;
+
+type
+  TModelConnectionsZeos = class(TInterfacedObject, iModelConnectionGeneric)
+    private
+      ZConnection1: TZConnection;
+      ZQuery1: TZQuery;
+      procedure ConnectionConfig;
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModelConnectionGeneric;
+  end;
+
+implementation
+
+{ TModelConnectionsZeos }
+
+procedure TModelConnectionsZeos.ConnectionConfig;
+begin
+  ZConnection1.Database := 'D:\Projetos\Cursos\DelphiToHero\ServerHorse\trunk\database\SimpleProject.db3';
+  ZConnection1.HostName := 'localhost';
+  ZConnection1.Protocol := 'sqlite';
+end;
+
+constructor TModelConnectionsZeos.Create;
+begin
+  ZConnection1 := TZConnection.Create(nil);
+  ZQuery1 := TZQuery.Create(nil);
+  ZQuery1.Connection := ZConnection1;
+  ConnectionConfig;
+end;
+
+destructor TModelConnectionsZeos.Destroy;
+begin
+  ZQuery1.Free;
+  ZConnection1.Free;
+  inherited;
+end;
+
+class function TModelConnectionsZeos.New: iModelConnectionGeneric;
+begin
+  Result := Self.Create;
+end;
+
+end.

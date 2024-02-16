@@ -1,0 +1,37 @@
+unit Model.Connections.Zeos;
+
+interface
+
+uses
+  Model.Connections.Interafaces;
+
+type
+  TModelConnectionsZeos = class(TInterfacedObject, iModelConnectionGeneric)
+    private
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModelConnectionGeneric;
+  end;
+
+implementation
+
+{ TModelConnectionsZeos }
+
+constructor TModelConnectionsZeos.Create;
+begin
+
+end;
+
+destructor TModelConnectionsZeos.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelConnectionsZeos.New: iModelConnectionGeneric;
+begin
+  Result := Self.Create;
+end;
+
+end.

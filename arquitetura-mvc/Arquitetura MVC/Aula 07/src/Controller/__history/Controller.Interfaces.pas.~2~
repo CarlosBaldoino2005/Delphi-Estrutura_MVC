@@ -1,0 +1,13 @@
+unit Controller.Interfaces;
+
+interface
+
+type
+
+  iController = interface
+    ['{DD4274EE-5710-4E38-B34C-8D27E9CC762F}']
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,37 @@
+unit Model.Integrations;
+
+interface
+
+uses
+  Model.Integrations.Interfaces;
+
+type
+  TModelIntegrations = class(TInterfacedObject, iModelIntegrations)
+    private
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModelIntegrations;
+  end;
+
+implementation
+
+{ TModelIntegrations }
+
+constructor TModelIntegrations.Create;
+begin
+
+end;
+
+destructor TModelIntegrations.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelIntegrations.New: iModelIntegrations;
+begin
+  Result := Self.Create;
+end;
+
+end.

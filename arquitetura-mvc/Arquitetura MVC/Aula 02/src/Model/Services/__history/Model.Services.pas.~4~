@@ -1,0 +1,56 @@
+unit Model.Services;
+
+interface
+
+uses
+  Model.Services.Interfaces, Model.Services.Boletos, Model.Services.Nfe,
+  Model.Services.Nfse;
+
+type
+  TModelServices = class(TInterfacedObject, iModelServices)
+    private
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModelServices;
+      function Boletos : iModelServicesGeneric;
+      function NFe : iModelServicesGeneric;
+      function NFSe : iModelServicesGeneric;
+  end;
+
+implementation
+
+{ TModelServices }
+
+function TModelServices.Boletos: iModelServicesGeneric;
+begin
+  Result := TModelServicesBoletos.New;
+end;
+
+constructor TModelServices.Create;
+begin
+
+end;
+
+destructor TModelServices.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelServices.New: iModelServices;
+begin
+  Result := Self.Create;
+end;
+
+function TModelServices.NFe: iModelServicesGeneric;
+begin
+  Result := TModelServicesNfe.New;
+end;
+
+function TModelServices.NFSe: iModelServicesGeneric;
+begin
+  Result := TModelServicesNfse.New;
+end;
+
+end.

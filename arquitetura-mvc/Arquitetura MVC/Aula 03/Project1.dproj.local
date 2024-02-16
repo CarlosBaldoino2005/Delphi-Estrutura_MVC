@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/16 13:50:46.000.996,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/27 13:38:03.000.251,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:35:19.000.386,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 16:39:10.000.273,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit1.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/04 16:39:10.000.273,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit1.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 16:39:13.000.101,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Project1.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/06/04 16:42:12.000.732,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:42:51.000.862,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Model\Connections\Model.Connections.Zeos.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:42:55.000.467,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:43:07.000.965,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Model\Connections\Model.Connections.Interafaces.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:45:06.000.556,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\View\View.Principal.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 16:45:06.000.556,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\View\View.Principal.dfm=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit1.dfm</Transaction>
+    <Transaction>2021/06/04 16:59:06.000.408,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:59:16.000.491,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Model\Connections\Model.Connections.pas</Transaction>
+    <Transaction>2021/06/04 17:01:12.000.001,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:01:22.000.087,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Model\Model.Interfaces.pas</Transaction>
+    <Transaction>2021/06/04 17:01:48.000.244,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:01:57.000.490,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Model\Model.pas</Transaction>
+    <Transaction>2021/06/04 17:06:38.000.740,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:06:48.000.575,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Controller\Controller.Interfaces.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:07:24.000.929,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:07:35.000.702,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\Controller\Controller.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:16:08.070,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 17:16:17.445,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\View\View.Form2.dfm=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.dfm</Transaction>
+    <Transaction>2021/06/04 17:16:17.445,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\src\View\View.Form2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 03\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

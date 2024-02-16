@@ -1,0 +1,34 @@
+unit Model.Services;
+
+interface
+
+type
+  TModelServices = class(TInterfacedObject, iModelServices)
+    private
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModelServices;
+  end;
+
+implementation
+
+{ TModelServices }
+
+constructor TModelServices.Create;
+begin
+
+end;
+
+destructor TModelServices.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelServices.New: iModelServices;
+begin
+  Result := Self.Create;
+end;
+
+end.

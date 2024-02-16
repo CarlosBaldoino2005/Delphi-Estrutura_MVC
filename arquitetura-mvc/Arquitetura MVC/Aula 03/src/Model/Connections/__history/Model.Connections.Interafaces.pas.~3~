@@ -1,0 +1,17 @@
+unit Model.Connections.Interafaces;
+
+interface
+
+uses
+  System.Classes;
+
+type
+  iModelConnectionGeneric = interface
+    ['{2B140172-68DC-4D98-888A-3BB021FB7173}']
+    function SQL : TStrings;
+    function Open : iModelConnectionGeneric;
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,47 @@
+unit Model.Connections.Zeos;
+
+interface
+
+uses
+  ZAbstractRODataset,
+  ZAbstractDataset,
+  ZDataset,
+  ZAbstractConnection,
+  ZConnection,
+  Model.Connections.Interafaces;
+
+type
+  TModelConnectionsZeos = class(TInterfacedObject, iModelConnectionGeneric)
+    private
+      ZConnection1: TZConnection;
+      ZQuery1: TZQuery;
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModelConnectionGeneric;
+  end;
+
+implementation
+
+{ TModelConnectionsZeos }
+
+constructor TModelConnectionsZeos.Create;
+begin
+  ZConnection1 := TZConnection.Create(nil);
+  ZQuery1 := TZQuery.Create(nil);
+  ZQuery1.Connection := ZConnection1;
+end;
+
+destructor TModelConnectionsZeos.Destroy;
+begin
+  ZQuery1.Free;
+  ZConnection1.Free;
+  inherited;
+end;
+
+class function TModelConnectionsZeos.New: iModelConnectionGeneric;
+begin
+  Result := Self.Create;
+end;
+
+end.

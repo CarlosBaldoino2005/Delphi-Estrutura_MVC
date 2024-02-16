@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/16 13:50:46.000.996,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/27 13:38:03.000.251,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 14:33:04.000.310,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 15:22:02.000.897,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit1.pas</Transaction>
+    <Transaction>2021/06/04 15:22:02.000.897,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit1.dfm</Transaction>
+    <Transaction>2021/06/04 15:22:05.000.720,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Project1.dproj</Transaction>
+    <Transaction>2021/06/04 15:23:21.000.115,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:25:23.000.759,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Services\Model.Services.Boletos.pas</Transaction>
+    <Transaction>2021/06/04 15:26:02.000.897,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:26:15.000.782,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Services\Model.Services.Interfaces.pas</Transaction>
+    <Transaction>2021/06/04 15:27:43.000.502,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:27:54.000.869,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Services\Model.Services.Nfe.pas</Transaction>
+    <Transaction>2021/06/04 15:28:16.000.844,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:28:28.000.141,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Services\Model.Services.Nfse.pas</Transaction>
+    <Transaction>2021/06/04 15:29:43.000.612,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:30:08.000.310,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Integrations\Model.Integrations.Interfaces.pas</Transaction>
+    <Transaction>2021/06/04 15:30:31.000.406,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:30:42.000.648,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Integrations\Model.Integrations.MercadoPago.pas</Transaction>
+    <Transaction>2021/06/04 15:32:25.000.389,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:32:36.000.499,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Integrations\Model.Integrations.MercadoLivre.pas</Transaction>
+    <Transaction>2021/06/04 15:32:58.000.041,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:33:09.000.658,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Integrations\Model.Integrations.SiteMercado.pas</Transaction>
+    <Transaction>2021/06/04 15:36:22.000.635,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:36:34.000.736,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Services\Model.Services.pas</Transaction>
+    <Transaction>2021/06/04 15:44:15.000.513,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:44:28.000.052,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Integrations\Model.Integrations.pas</Transaction>
+    <Transaction>2021/06/04 15:48:05.000.004,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:48:16.000.391,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Model.Interfaces.pas</Transaction>
+    <Transaction>2021/06/04 15:49:42.000.879,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:49:51.000.258,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Model.pas</Transaction>
+    <Transaction>2021/06/04 15:54:47.000.700,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:54:58.000.746,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Controller\Controller.Interfaces.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:55:47.000.639,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 15:55:56.000.350,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Controller\Controller.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:00:07.000.234,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:00:26.000.909,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Integrations\Model.Integrations.SkyTef.pas</Transaction>
+    <Transaction>2021/06/04 16:04:40.000.762,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit2.pas</Transaction>
+    <Transaction>2021/06/04 16:05:40.000.656,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit3.pas</Transaction>
+    <Transaction>2021/06/04 16:05:54.000.674,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\Unit3.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 02\src\Model\Services\Model.Services.CTe.pas</Transaction>
+  </Transactions>
+</BorlandProject>

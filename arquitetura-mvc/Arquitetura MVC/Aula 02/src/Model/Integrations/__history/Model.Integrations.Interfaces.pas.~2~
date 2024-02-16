@@ -1,0 +1,12 @@
+unit Model.Integrations.Interfaces;
+
+interface
+
+type
+  iModelIntegrations = interface
+    ['{1FA0323E-8E4B-447E-9841-9BFEF31A7DEB}']
+  end;
+
+implementation
+
+end.

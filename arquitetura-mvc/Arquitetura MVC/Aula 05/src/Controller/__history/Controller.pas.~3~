@@ -1,0 +1,51 @@
+unit Controller;
+
+interface
+
+uses
+  Controller.Interfaces,
+  Model.Connections.Interafaces;
+
+type
+  TController = class(TInterfacedObject, iController)
+    private
+      FConnections : iModelConnections;
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iController;
+      function Connections : iModelConnections;
+  end;
+
+implementation
+
+uses
+  Model;
+
+{ TController }
+
+function TController.Connections: iModelConnections;
+begin
+  if not Assigned(FConnections) then
+    FConnections := TModel.New.Connections;
+
+  Result := FConnections;
+end;
+
+constructor TController.Create;
+begin
+
+end;
+
+destructor TController.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TController.New: iController;
+begin
+  Result := Self.Create;
+end;
+
+end.

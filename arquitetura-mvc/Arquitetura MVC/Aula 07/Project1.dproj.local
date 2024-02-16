@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/16 13:50:46.000.996,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/27 13:38:03.000.251,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 13:44:37.000.076,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/10 14:06:06.000.374,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit1.pas</Transaction>
+    <Transaction>2021/06/10 14:06:06.000.374,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit1.dfm</Transaction>
+    <Transaction>2021/06/10 14:06:07.000.943,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Project1.dproj</Transaction>
+    <Transaction>2021/06/10 14:07:48.000.201,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit1.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\View\View.Principal.pas</Transaction>
+    <Transaction>2021/06/10 14:07:48.000.201,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit1.dfm=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\View\View.Principal.dfm</Transaction>
+    <Transaction>2021/06/10 14:07:56.000.509,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:08:14.000.813,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\Controller\Controller.Interfaces.pas</Transaction>
+    <Transaction>2021/06/10 14:08:42.000.614,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:08:51.000.353,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\Controller\Controller.pas</Transaction>
+    <Transaction>2021/06/10 14:11:22.000.239,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:11:46.000.025,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\Model\Nfe\Model.NFe.Interfaces.pas</Transaction>
+    <Transaction>2021/06/10 14:12:26.000.180,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:12:36.000.609,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\Model\Nfe\Model.NFe.pas</Transaction>
+    <Transaction>2021/06/10 14:17:24.239,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:17:41.743,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\Model\CEP\Model.CEP.Interfaces.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:18:02.643,=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 14:18:13.140,C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\src\Model\CEP\Model.CEP.pas=C:\Users\thuli\Desktop\Arquitetura MVC\Aula 07\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,34 @@
+unit Model;
+
+interface
+
+type
+  TModel = class(TInterfacedObject, iModel)
+    private
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iModel;
+  end;
+
+implementation
+
+{ TModel }
+
+constructor TModel.Create;
+begin
+
+end;
+
+destructor TModel.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModel.New: iModel;
+begin
+  Result := Self.Create;
+end;
+
+end.

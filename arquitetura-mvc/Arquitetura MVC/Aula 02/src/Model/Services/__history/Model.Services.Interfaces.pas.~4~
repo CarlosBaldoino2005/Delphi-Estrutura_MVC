@@ -1,0 +1,14 @@
+unit Model.Services.Interfaces;
+
+interface
+
+type
+  iModelServicesGeneric = interface
+    ['{2F515F62-EC8F-4084-8DEB-42AD50240B52}']
+  end;
+
+  iServices
+
+implementation
+
+end.

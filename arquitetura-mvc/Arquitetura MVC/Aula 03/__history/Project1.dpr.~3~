@@ -1,0 +1,16 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  View.Principal in 'src\View\View.Principal.pas' {Form1},
+  Model.Connections.Zeos in 'src\Model\Connections\Model.Connections.Zeos.pas',
+  Model.Connections.Interafaces in 'src\Model\Connections\Model.Connections.Interafaces.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
